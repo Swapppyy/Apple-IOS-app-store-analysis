@@ -53,15 +53,15 @@ Dataset Link: https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-
 
 My Insights:
 
-### Paid apps have higher rating
+- Paid apps have higher rating
 
-### Apps which have between 10 and 30 languages have better ratings
+- Apps which have between 10 and 30 languages have better ratings
 
-### Finance and book apps have low ratings
+- Finance and book apps have low ratings
 
-### Apps with longer description have better ratings
+- Apps with longer description have better ratings
 
-### Games and entertainment have a high competition
+- Games and entertainment have a high competition
 
 
 
