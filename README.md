@@ -5,6 +5,8 @@
 I conducted an Exploratory Data Analysis on the Apple iOS App Store. This project involved examining and analyzing the dataset using SQL to extract valuable insights and trends related to app ratings, categories, monetization, and user engagement. The EDA aimed to uncover patterns and correlations within the data, providing a foundation for data-driven decision-making in the context of iOS app development and distribution.
 
 Dataset Link: https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps
+
+I have also uploaded the datasets files in the repository, please feel free to use them.
   
 ### Checkout my SQL scripts for Data Analysis:
 
