@@ -6,4 +6,11 @@ I conducted an Exploratory Data Analysis on the Apple iOS App Store. This projec
 
 Dataset Link: https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps
   
-### Checkout my Jupyter Notebook for SQL scripts:
+### Checkout my SQL scripts for Data Analysis:
+
+#### Exploratory Data Analysis:
+
+    'select count(distinct id) AS UniqueAppIds From appleStore;'
+    'select count(distinct id) AS UniqueAppIds From appleStore_description;'
+
+
