@@ -9,8 +9,6 @@ Dataset Link: https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-
 You can view my work over here: <a href="https://github.com/Swapppyy/Apple-IOS-app-store-analysis/blob/main/Apple%20IOS%20app%20store%20analysis.ipynb" target="_blank"><code>My Jupyter Notebook</code></a>
 
 I have also uploaded the datasets files in the repository, please feel free to use them.
-  
-### Checkout my SQL scripts for Data Analysis:
 
 #### My Insights:
 
