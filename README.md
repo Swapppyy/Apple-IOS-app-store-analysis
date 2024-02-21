@@ -22,6 +22,16 @@ I have also uploaded the datasets files in the repository, please feel free to u
 
 - Games and entertainment have a high competition
 
+<br>
+
+Checkout my Live Dashboard published over here: <a href="https://www.novypro.com/profile_projects/swapnildeore" target="_blank"><code>Apple IOS app store Dashboard</code></a>
+
+
+### Glimpse of my Dashboard:
+<p align="center">
+  <img width="100%" src="Apple.png" />
+</p>
+
 
 
 
